@@ -3,7 +3,7 @@ About r-rann.l1
 
 Home: https://github.com/jefferis/RANN/tree/master-L1
 
-Package license: GPL-3
+Package license: GPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rann.l1-feedstock/blob/main/LICENSE.txt)
 
